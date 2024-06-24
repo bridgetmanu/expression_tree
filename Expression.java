@@ -1,7 +1,3 @@
-// Starter code for Project 1
-
-// Change this to your NetID
-package bsm180003;
 
 import java.util.*;
 import java.io.File;
